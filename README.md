@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Nalawade</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-- 🔭 I’m currently working on **Building Own AI virtual Assistant**
+- 🔭 I’m currently working on **Building RealTime Chat-App**
 
 - 🌱 I’m currently learning **Typescript,Next.js**
 
